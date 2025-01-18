@@ -4,9 +4,9 @@ Watzek Library<br>
 Lewis & Clark College<br>
 Portland, OR, USA
 
-I help teach web development (PHP, MySQL, CSS, Javascript) and data science (R, Python) at Lewis & Clark.
+I help teach web development (PHP, MySQL, CSS, Javascript) and Data Science (R, Python) at Lewis & Clark.
 
-I also write AngularJS customizations for ExLibris's Primo catalog, and build software to improve workflows and connect systems.
+I also write AngularJS customizations for ExLibris's Primo catalog, and build software to improve staff workflows and connect systems.
 
 <!--
 **jeremymcwilliams/jeremymcwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
